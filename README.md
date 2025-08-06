@@ -1,4 +1,4 @@
-🌸 Minesweeper using Java Swing is the implementation of the classic Minesweeper game.  
+Minesweeper using Java Swing is the implementation of the classic Minesweeper game.  
 It features multiple difficulty levels, a timer, score tracking, and a simple user interface.
 
 ---

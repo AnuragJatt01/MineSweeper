@@ -1,6 +1,4 @@
-🌸 Minesweeper in Java Swing
-
-Minesweeper is a Java Swing implementation of the classic Minesweeper game.  
+🌸 Minesweeper using Java Swing is the implementation of the classic Minesweeper game.  
 It features multiple difficulty levels, a timer, score tracking, and a simple user interface.
 
 ---
@@ -11,19 +9,6 @@ It features multiple difficulty levels, a timer, score tracking, and a simple us
 - **Timer & Score Tracking** — Challenge yourself to improve  
 - **Reset & Help Buttons** — Restart or get instructions anytime  
 - **Win/Loss Conditions** — True Minesweeper experience  
-
----
-
-## 📂 Project Structure
-
-CampoFiorito/
-│── src/              # Java source code (MineSweeper.java, etc.)
-│── nbproject/        # NetBeans project files
-│── docs/             # Documentation (English)
-│── README.md         # Project description
-│── .gitignore        # Ignored files
-│── Images            # Screenshots
-│── Documentation for Minesweeper.pdf        # Full documentation
 
 ---
 
@@ -49,9 +34,9 @@ CampoFiorito/
 	2.	Click a cell to start the game
 	3.	Avoid bombs, reveal all safe cells to win
 	4.	Use:
-	•	Help → Show game instructions
-	•	Reset → Restart the game
-	•	Exit → Close the game
+		•	Help → Show game instructions
+		•	Reset → Restart the game
+		•	Exit → Close the game
 
 ⸻
 
